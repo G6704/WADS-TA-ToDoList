@@ -88,3 +88,5 @@ export const TodoWrapper = () => {
         </div>
     )
 }
+
+export default TodoWrapper;
